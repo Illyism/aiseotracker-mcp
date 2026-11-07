@@ -1,0 +1,17 @@
+{
+  "name": "aiseotracker",
+  "displayName": "AI SEO Tracker",
+  "version": "0.4.0",
+  "description": "Track brand visibility, citations, prompts, and missing sources across ChatGPT, Perplexity, Gemini, Copilot, and Google AI Overviews.",
+  "author": {
+    "name": "AI SEO Tracker",
+    "url": "https://aiseotracker.com"
+  },
+  "homepage": "https://aiseotracker.com/docs/mcp",
+  "repository": "https://github.com/Illyism/aiseotracker-mcp",
+  "keywords": ["seo", "ai-seo", "geo", "visibility", "citations", "chatgpt", "perplexity", "mcp"],
+  "documentationUrl": "https://aiseotracker.com/docs/mcp",
+  "supportUrl": "https://aiseotracker.com/help",
+  "privacyPolicyUrl": "https://aiseotracker.com/privacy-policy",
+  "termsOfServiceUrl": "https://aiseotracker.com/terms-of-service"
+}

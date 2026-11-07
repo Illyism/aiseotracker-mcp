@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.aiseotracker/mcp",
+  "title": "AI SEO Tracker",
+  "description": "Track brand visibility, citations, prompts & missing sources across ChatGPT, Perplexity, Gemini.",
+  "version": "0.4.0",
+  "websiteUrl": "https://aiseotracker.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/Illyism/aiseotracker-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://aiseotracker.com/icon0.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://aiseotracker.com/api/agent/mcp"
+    }
+  ]
+}

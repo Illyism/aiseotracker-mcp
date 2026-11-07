@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aiseotracker": {
+      "type": "http",
+      "url": "https://aiseotracker.com/api/agent/mcp"
+    }
+  }
+}

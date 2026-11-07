@@ -1,0 +1,10 @@
+{
+  "name": "aiseotracker",
+  "version": "0.4.0",
+  "description": "AI SEO Tracker MCP server: track brand visibility, citations, prompts, and missing sources across ChatGPT, Perplexity, Gemini, Copilot, and Google AI Overviews.",
+  "mcpServers": {
+    "aiseotracker": {
+      "httpUrl": "https://aiseotracker.com/api/agent/mcp"
+    }
+  }
+}

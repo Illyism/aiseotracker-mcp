@@ -1,0 +1,17 @@
+{
+  "name": "aiseotracker-mcp",
+  "description": "AI SEO Tracker MCP server and skill for tracking brand visibility, citations, prompts, and missing sources across AI search engines.",
+  "owner": {
+    "name": "AI SEO Tracker",
+    "url": "https://aiseotracker.com"
+  },
+  "plugins": [
+    {
+      "name": "aiseotracker",
+      "source": "./",
+      "description": "Track brand visibility, citations, prompts, and missing sources across ChatGPT, Perplexity, Gemini, Copilot, and Google AI Overviews.",
+      "category": "marketing",
+      "tags": ["seo", "ai-seo", "geo", "citations", "mcp"]
+    }
+  ]
+}
